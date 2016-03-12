@@ -1,4 +1,4 @@
 # LittleJourney
 Little Journey
 
-URL:http://littlejourney.heteml.jp/
+URL:<a href="http://littlejourney.heteml.jp/" target="_brank">http://littlejourney.heteml.jp/</a>
